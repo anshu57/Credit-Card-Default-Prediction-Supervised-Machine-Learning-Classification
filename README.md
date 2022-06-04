@@ -5,7 +5,7 @@ This project is aimed at predicting the case of customers default payments in Ta
 # Steps Involved :
 * Importing libraries
 * Dataset Inspection
-# * EDA :
+* EDA :
   1. Handling Missing Data
   2. Univariate Analysis
   3. Analysis on Limit Balance
