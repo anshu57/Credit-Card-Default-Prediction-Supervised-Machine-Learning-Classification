@@ -21,10 +21,10 @@ This project is aimed at predicting the case of customers default payments in Ta
 * Feature Importance On XG Boost Optimal Model
 
 # Baseline Model Comparison Table
-![image](https://user-images.githubusercontent.com/46549606/172003678-4937c6ad-8a1b-4de8-92d1-35e96af88dfd.png)
+![image](https://user-images.githubusercontent.com/46549606/172003887-d5644d19-c4e3-487b-8035-2fc96a723f97.png)
 
 # Optimal Model Comparison Table
-![image](https://user-images.githubusercontent.com/46549606/172003728-ac79f987-c13f-4516-95e7-4f42409e03cd.png)
+![image](https://user-images.githubusercontent.com/46549606/172003902-4f5c7974-77d8-406a-b51c-0f17d1b4ffd9.png)
 
 # Conclusion :
 * After Basic EDA,
