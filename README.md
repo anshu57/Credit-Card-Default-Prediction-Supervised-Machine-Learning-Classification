@@ -34,4 +34,4 @@ University>graduate school>High School>Others
 * Thus XG Boost with optimal model is best to predict the credit Card Default
 
 # Next Step :
-
+* For Model Deployment we can use the Tuned XG BOOST Model. Where we suppose to make the prediction on monthly basis as per the previous records of customer and accordingly reject his/her credit request, if he/she is pretended to make default on his/her credit. 
