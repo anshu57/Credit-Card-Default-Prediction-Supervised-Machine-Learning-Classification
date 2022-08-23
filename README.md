@@ -6,6 +6,10 @@ This project is aimed at predicting the case of customers default payments in Ta
 * EDA :
   1. Handling Missing Data
   2. Univariate Analysis
+  ![image](https://user-images.githubusercontent.com/46549606/186163268-cb11abbf-d8b2-4e89-9f2d-a671b6d40cf2.png)
+  ![image](https://user-images.githubusercontent.com/46549606/186163181-e4b212e0-03db-48eb-a554-125c366e53bc.png)
+  
+
   3. Correlation
 * One Hot Encoding
 * Handling Class Imbalance : Using SMOTE
